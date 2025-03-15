@@ -4,7 +4,7 @@ title: Content & User Experience (UX)
 
 ## Why Content and UX Matter
 
-A beautiful website is useless if visitors can’t find what they need ori
+A beautiful website is useless if visitors can’t find what they need or
 don’t understand your message. Your website’s **content** (text, images,
 videos) and **user experience (UX)** (how easy it is to navigate and use)
 are crucial for converting visitors into customers.
