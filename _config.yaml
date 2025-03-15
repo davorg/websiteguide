@@ -8,6 +8,12 @@ description: Getting a website that actually works for your business
 
 minimal_mistakes_skin: "default"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6EEHKP4YCH"
+    anonymize_ip: false
+
 defaults:
   - scope:
       path: ""
