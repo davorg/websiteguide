@@ -1,4 +1,6 @@
-# Choosing the Right Platform
+---
+title: Choosing the Right Platform
+---
 
 ## Why the Platform Matters
 
