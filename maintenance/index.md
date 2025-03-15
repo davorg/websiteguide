@@ -78,6 +78,6 @@ won’t get results. Our next article will cover how to create a website
 that’s easy to use and full of useful information.
 
 ### Coming Up Next:
-**[Content & User Experience (UX)](./content/)** – How to create a website that’s
+**[Content & User Experience (UX)](../content/)** – How to create a website that’s
 clear, engaging, and effective.
 

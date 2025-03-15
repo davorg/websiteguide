@@ -90,5 +90,5 @@ help you put together a final checklist before hiring a website company.
 
 ### Coming Up Next:
 
-**[Conclusion: Making an Informed Decision](./conclusion/)** – A final checklist to
-ensure you choose the right website provider.
+**[Conclusion: Making an Informed Decision](../conclusion/)** – A final
+checklist to ensure you choose the right website provider.

@@ -84,6 +84,6 @@ unexpected costs. In the next article, we’ll cover **how to avoid hidden
 fees and ensure you truly own your website**.
 
 ### Coming Up Next:
-**[Pricing & Ownership: What Are You Really Paying For?](./pricing/)** –
+**[Pricing & Ownership: What Are You Really Paying For?](../pricing/)** –
 Understanding website costs and avoiding hidden fees.
 

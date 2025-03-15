@@ -71,6 +71,6 @@ can damage your reputation and business. In the next article, we’ll cover
 security, backups, and long-term website care.
 
 ### Coming Up Next:
-**[Website Security & Ongoing Maintenance](./security/)** – How to keep your website
-safe, up to date, and running smoothly.
+**[Website Security & Ongoing Maintenance](../security/)** – How to keep
+your website safe, up to date, and running smoothly.
 

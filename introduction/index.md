@@ -52,7 +52,7 @@ website. Is it to attract new customers? Sell products? Provide information?
 Knowing your **goals** will help you make the best decisions.
 
 ### Coming Up Next: 
-**[Defining Your Website Goals](./goals/)** – Understanding what your website needs
+**[Defining Your Website Goals](../goals/)** – Understanding what your website needs
 to achieve and how to measure success.
 
 Stay tuned and get ready to take control of your website project!
