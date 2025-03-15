@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: SEO & Performance
+# SEO & Performance
 
 ## Why SEO and Performance Matter
 

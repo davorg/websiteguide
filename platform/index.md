@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Choosing the Right Platform
+# Choosing the Right Platform
 
 ## Why the Platform Matters
 

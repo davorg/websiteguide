@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Integrations & Automation
+# Integrations & Automation
 
 ## Why Integrations & Automation Matter
 

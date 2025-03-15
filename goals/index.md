@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Defining Your Website Goals
+# Defining Your Website Goals
 
 ## Why Every Website Needs a Clear Purpose
 

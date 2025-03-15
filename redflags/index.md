@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Red Flags & How to Spot a Bad Website Company
+# Red Flags & How to Spot a Bad Website Company
 
 ## Why You Need to Watch for Red Flags
 

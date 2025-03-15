@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: E-commerce & Payment Systems
+# E-commerce & Payment Systems
 
 ## Why E-commerce & Payment Systems Matter
 

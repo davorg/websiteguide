@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Content & User Experience (UX)
+# Content & User Experience (UX)
 
 ## Why Content and UX Matter
 

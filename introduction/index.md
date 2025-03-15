@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Introduction
+# Introduction
 
 ## Why You Need to Ask the Right Questions
 

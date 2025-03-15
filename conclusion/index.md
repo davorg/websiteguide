@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Conclusion & Final Checklist
+# Conclusion & Final Checklist
 
 ## Making an Informed Decision
 

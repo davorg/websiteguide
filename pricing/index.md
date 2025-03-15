@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Pricing & Ownership
+# Pricing & Ownership
 
 ## Why Pricing & Ownership Matter
 

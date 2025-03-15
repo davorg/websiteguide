@@ -1,4 +1,4 @@
-# What to Ask Your Website Company: Security & Ongoing Maintenance
+# Security & Ongoing Maintenance
 
 ## Why Website Security and Maintenance Matter
 
