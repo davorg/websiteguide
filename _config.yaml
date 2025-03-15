@@ -14,6 +14,13 @@ analytics:
     tracking_id: "G-6EEHKP4YCH"
     anonymize_ip: false
 
+social:
+  image: "/assets/images/image-og.png"
+
+twitter:
+  username: "@davorg"
+  card: "summary"
+
 defaults:
   - scope:
       path: ""
