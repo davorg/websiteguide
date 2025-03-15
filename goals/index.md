@@ -61,6 +61,6 @@ update themselves, while others require an advanced e-commerce solution.
 We’ll cover this in the next article.
 
 ### Coming Up Next:
-**[Choosing the Right Platform](#)** – Understanding whether WordPress,
+**[Choosing the Right Platform](./platform/)** – Understanding whether WordPress,
 Shopify, Wix, or a custom-built solution is best for you.
 

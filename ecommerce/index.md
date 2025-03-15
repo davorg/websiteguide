@@ -91,6 +91,6 @@ next article covers **website integrations and automation** to help
 streamline your business.
 
 ### Coming Up Next:
-**[Integrations & Automation](#)** – How to connect your website to other
+**[Integrations & Automation](./integrations/)** – How to connect your website to other
 systems and save time with automation.
 

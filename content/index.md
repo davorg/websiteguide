@@ -90,6 +90,6 @@ relevant). If you’re planning to sell online or allow customers to book
 appointments, you need to get the right systems in place.
 
 ### Coming Up Next:
-**[E-commerce & Payment Systems](#)** – What to consider if you plan to
+**[E-commerce & Payment Systems](./ecommerce/)** – What to consider if you plan to
 sell products or take payments through your website.
 

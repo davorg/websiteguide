@@ -92,5 +92,5 @@ spot red flags and avoid common pitfalls when hiring a website provider.
 
 ### Coming Up Next:
 
-**[Red Flags: How to Spot a Bad Website Company](#)** – Avoiding unreliable
+**[Red Flags: How to Spot a Bad Website Company](./redflags/)** – Avoiding unreliable
 providers and making sure you get a good deal.

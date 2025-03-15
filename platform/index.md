@@ -71,6 +71,6 @@ we’ll look at **SEO and performance**—how to make sure your site ranks
 well in Google and loads quickly for visitors.
 
 ### Coming Up Next:
-**[SEO & Performance: How Will My Website Be Found?](#)** – Ensuring your
+**[SEO & Performance: How Will My Website Be Found?](./seo/)** – Ensuring your
 website appears in search engines and performs well for visitors.
 
