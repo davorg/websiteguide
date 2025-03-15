@@ -1,4 +1,6 @@
-# Content & User Experience (UX)
+---
+title: Content & User Experience (UX)
+---
 
 ## Why Content and UX Matter
 

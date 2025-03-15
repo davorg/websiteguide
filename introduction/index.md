@@ -1,4 +1,6 @@
-# Introduction
+---
+title: Introduction
+---
 
 ## Why You Need to Ask the Right Questions
 

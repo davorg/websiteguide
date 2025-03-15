@@ -1,4 +1,6 @@
-# Integrations & Automation
+---
+title: Integrations & Automation
+---
 
 ## Why Integrations & Automation Matter
 

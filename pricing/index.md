@@ -1,4 +1,6 @@
-# Pricing & Ownership
+---
+title: Pricing & Ownership
+---
 
 ## Why Pricing & Ownership Matter
 

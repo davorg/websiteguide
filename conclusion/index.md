@@ -1,4 +1,6 @@
-# Conclusion & Final Checklist
+---
+title: Conclusion & Final Checklist
+---
 
 ## Making an Informed Decision
 

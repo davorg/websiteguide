@@ -1,4 +1,6 @@
-# Security & Ongoing Maintenance
+---
+title: Security & Ongoing Maintenance
+---
 
 ## Why Website Security and Maintenance Matter
 

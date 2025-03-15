@@ -1,4 +1,6 @@
-# Defining Your Website Goals
+---
+title: Defining Your Website Goals
+---
 
 ## Why Every Website Needs a Clear Purpose
 

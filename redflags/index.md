@@ -1,4 +1,6 @@
-# Red Flags & How to Spot a Bad Website Company
+---
+title: Red Flags & How to Spot a Bad Website Company
+---
 
 ## Why You Need to Watch for Red Flags
 

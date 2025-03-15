@@ -1,4 +1,6 @@
-# SEO & Performance
+---
+title: SEO & Performance
+---
 
 ## Why SEO and Performance Matter
 
