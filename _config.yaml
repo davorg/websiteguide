@@ -14,12 +14,30 @@ analytics:
     tracking_id: "G-6EEHKP4YCH"
     anonymize_ip: false
 
+author:
+  name: "Dave Cross"
+  email: "dave@davecross.co.uk"
+  social:
+    - "https://github.com/davorg"
+    - "https://www.linkedin.com/in/davorg/"
+
 social:
+  name: "What to Ask Your Website Company"
+  links:
+    - "https://github.com/davorg"
+    - "https://www.linkedin.com/in/davorg/"
   image: "/assets/images/image-og.png"
 
 twitter:
   username: "@davorg"
   card: "summary"
+
+json_ld:
+  enabled: true
+  type: "Person"  # "Person" if personal blog, "Organization" for business
+  name: "Dave Cross"
+  description: "A guide for small businesses looking to build or improve their website."
+  url: "https://websiteguide.davecross.co.uk/"
 
 defaults:
   - scope:
