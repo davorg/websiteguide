@@ -14,6 +14,7 @@ defaults:
       type: posts
     values:
       layout: single
+      show_title: false
   - scope:
       path: ""
       type: pages
