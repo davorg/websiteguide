@@ -1,3 +1,5 @@
+![{{ site.description }}](/assets/images/image-og.png)
+
 If you're a small business owner looking to build or improve your website,
 you might not know where to start. With so many web design companies,
 platforms and pricing models, it’s easy to feel overwhelmed—or worse, to
