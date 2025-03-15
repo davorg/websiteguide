@@ -7,3 +7,15 @@ title: What to Ask Your Website Company
 description: Getting a website that actually works for your business
 
 minimal_mistakes_skin: "default"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
