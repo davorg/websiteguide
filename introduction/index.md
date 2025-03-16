@@ -1,8 +1,11 @@
 ---
 title: Introduction
+subtitle: Why You Need to Ask the Right Questions
 ---
 
-## Why You Need to Ask the Right Questions
+![{{ page.subtitle }}](/assets/images/intro.png)
+
+## {{ page.subtitle }}
 
 If you're a small business owner looking to build or improve your website,
 you might feel overwhelmed by the choices available. There are countless web
