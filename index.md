@@ -4,8 +4,6 @@ sidebar: false
 description: Getting a website that actually works for your business
 ---
 
-# {{ page.description }}
-
 ![{{ page.description }}](/assets/images/website-build.png)
 
 If you're a small business owner looking to build or improve your website,
