@@ -1,8 +1,11 @@
 ---
 title: Defining Your Website Goals
+subtitle: Why Every Website Needs a Clear Purpose
 ---
 
-## Why Every Website Needs a Clear Purpose
+![{{ page.subtitle }}](/assets/images/goals.png)
+
+## {{ page.subtitle }}
 
 Before you even think about hiring a website company, you need to be clear
 on **what you want your website to achieve**. Many small business owners rush
