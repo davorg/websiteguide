@@ -1,11 +1,12 @@
 ---
 title: Integrations & Automation
-subtitle: Why Integrations & Automation Matter
+description: Why Integrations & Automation Matter
+og_image: /assets/images/integrations.png
 ---
 
-![{{ page.subtitle }}](/assets/images/integrations.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 Your website doesn’t operate in isolation—it should work **seamlessly
 with the other tools you use** to run your business. Whether it’s capturing

@@ -1,11 +1,12 @@
 ---
 title: Content & User Experience (UX)
-subtitle: Why Content and UX Matter
+description: Why Content and UX Matter
+og_image: /assets/images/content.png
 ---
 
-![{{ page.subtitle }}](/assets/images/content.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 A beautiful website is useless if visitors can’t find what they need or
 don’t understand your message. Your website’s **content** (text, images,

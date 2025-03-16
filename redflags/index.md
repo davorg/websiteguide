@@ -1,11 +1,12 @@
 ---
 title: Red Flags & How to Spot a Bad Website Company
-subtitle: Why You Need to Watch for Red Flags
+description: Why You Need to Watch for Red Flags
+og_image: /assets/images/redflags.png
 ---
 
-![{{ page.subtitle }}](/assets/images/redflags.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 Not all website companies are created equal. Some provide excellent service,
 while others **overcharge, underdeliver, or lock you into restrictive

@@ -1,11 +1,12 @@
 ---
 title: Security & Ongoing Maintenance
-subtitle: Why Website Security and Maintenance Matter
+description: Why Website Security and Maintenance Matter
+og_image: /assets/images/maintenance.png
 ---
 
-![{{ page.subtitle }}](/assets/images/maintenance.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 A website isn’t something you build once and forget about. It needs regular
 maintenance to stay secure, function properly, and avoid costly downtime.

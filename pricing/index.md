@@ -1,11 +1,12 @@
 ---
 title: Pricing & Ownership
-subtitle: Why Pricing & Ownership Matter
+description: Why Pricing & Ownership Matter
+og_image: /assets/images/pricing.png
 ---
 
-![{{ page.subtitle }}](/assets/images/pricing.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 Many small business owners get caught out by **unexpected costs, hidden fees,
 or unclear ownership** when hiring a web company. Some discover too late that

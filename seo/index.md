@@ -1,11 +1,12 @@
 ---
 title: SEO & Performance
-subtitle: Why SEO and Performance Matter
+description: Why SEO and Performance Matter
+og_image: /assets/images/seo.png
 ---
 
-![{{ page.subtitle }}](/assets/images/seo.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 Having a website is pointless if no one can find it. Search Engine
 Optimisation (SEO) helps your website appear in Google searches, while

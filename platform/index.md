@@ -1,11 +1,12 @@
 ---
 title: Choosing the Right Platform
-subtitle: Why the Platform Matters
+description: Why the Platform Matters
+og_image: /assets/images/platform.png
 ---
 
-![{{ page.subtitle }}](/assets/images/platform.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 One of the biggest decisions you'll make when getting a website built is
 **which platform it will be built on**. The platform affects how easy it

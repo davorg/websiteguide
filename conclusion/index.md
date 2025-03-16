@@ -1,11 +1,12 @@
 ---
 title: Conclusion & Final Checklist
-subtitle: Making an Informed Decision
+description: Making an Informed Decision
+og_image: /assets/images/conclusion.png
 ---
 
-![{{ page.subtitle }}](/assets/images/conclusion.png)
+![{{ page.description: }}]({{ page.og_image }})
 
-## {{ page.subtitle }}
+## {{ page.description: }}
 
 Choosing the right website company is one of the most important business
 decisions you'll make. A good website is an **investment that helps your
