@@ -1,8 +1,11 @@
 ---
 title: E-commerce & Payment Systems
+subtitle: Why E-commerce & Payment Systems Matter
 ---
 
-## Why E-commerce & Payment Systems Matter
+![{{ page.subtitle }}](/assets/images/ecommerce.png)
+
+## {{ page.subtitle }}
 
 If your business sells products or services online, you need a **reliable,
 secure, and user-friendly** e-commerce system. The wrong setup can lead to
