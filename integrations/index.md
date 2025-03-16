@@ -3,7 +3,7 @@ title: Integrations & Automation
 subtitle: Why Integrations & Automation Matter
 ---
 
-![{{ page.subtitle }}](/assets/images/integration.png)
+![{{ page.subtitle }}](/assets/images/integrations.png)
 
 ## {{ page.subtitle }}
 
