@@ -1,4 +1,4 @@
-![{{ site.description }}](/assets/images/website-build.webp)
+![{{ site.description }}](/assets/images/website-build.png)
 
 If you're a small business owner looking to build or improve your website,
 you might not know where to start. With so many web design companies,
