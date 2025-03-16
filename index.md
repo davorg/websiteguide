@@ -1,8 +1,12 @@
 ---
 layout: single
 sidebar: false
+description: Getting a website that actually works for your business
 ---
-![{{ site.description }}](/assets/images/website-build.png)
+
+# {{ page.description }}
+
+![{{ page.description }}](/assets/images/website-build.png)
 
 If you're a small business owner looking to build or improve your website,
 you might not know where to start. With so many web design companies,
