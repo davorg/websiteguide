@@ -3,7 +3,7 @@ title: Security & Ongoing Maintenance
 subtitle: Why Website Security and Maintenance Matter
 ---
 
-![{{ page.subtitle }}](/assets/images/maintenande.png)
+![{{ page.subtitle }}](/assets/images/maintenance.png)
 
 ## {{ page.subtitle }}
 
