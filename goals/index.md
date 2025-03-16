@@ -1,10 +1,11 @@
 ---
 title: Defining Your Website Goals
 description: Why Every Website Needs a Clear Purpose
-og_image: /assets/images/goals.png
+header:
+  og_image: /assets/images/goals.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

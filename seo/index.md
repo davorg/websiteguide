@@ -1,10 +1,11 @@
 ---
 title: SEO & Performance
 description: Why SEO and Performance Matter
-og_image: /assets/images/seo.png
+header:
+  og_image: /assets/images/seo.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

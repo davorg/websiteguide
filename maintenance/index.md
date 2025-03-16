@@ -1,10 +1,11 @@
 ---
 title: Security & Ongoing Maintenance
 description: Why Website Security and Maintenance Matter
-og_image: /assets/images/maintenance.png
+header:
+  og_image: /assets/images/maintenance.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

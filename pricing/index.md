@@ -1,10 +1,11 @@
 ---
 title: Pricing & Ownership
 description: Why Pricing & Ownership Matter
-og_image: /assets/images/pricing.png
+header:
+  og_image: /assets/images/pricing.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

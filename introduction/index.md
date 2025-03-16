@@ -1,10 +1,11 @@
 ---
 title: Introduction
 description: Why You Need to Ask the Right Questions
-og_image: /assets/images/intro.png
+header:
+  og_image: /assets/images/intro.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

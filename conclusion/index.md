@@ -1,10 +1,11 @@
 ---
 title: Conclusion & Final Checklist
 description: Making an Informed Decision
-og_image: /assets/images/conclusion.png
+header:
+  og_image: /assets/images/conclusion.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 

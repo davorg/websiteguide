@@ -1,10 +1,11 @@
 ---
 title: Red Flags & How to Spot a Bad Website Company
 description: Why You Need to Watch for Red Flags
-og_image: /assets/images/redflags.png
+header:
+  og_image: /assets/images/redflags.png
 ---
 
-![{{ page.description: }}]({{ page.og_image }})
+![{{ page.description: }}]({{ page.header.og_image }})
 
 ## {{ page.description: }}
 
