@@ -1,3 +1,7 @@
+---
+layout: single
+sidebar: false
+---
 ![{{ site.description }}](/assets/images/website-build.png)
 
 If you're a small business owner looking to build or improve your website,
