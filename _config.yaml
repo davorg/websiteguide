@@ -52,7 +52,7 @@ defaults:
       layout: single
       show_title: false
       sidebar:
-        nav: "main"
+        nav: "side"
   - scope:
       path: ""
       type: pages
@@ -60,4 +60,4 @@ defaults:
       layout: single
       show_title: false
       sidebar:
-        nav: "main"
+        nav: "side"
