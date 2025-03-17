@@ -35,7 +35,7 @@ the provider. Here are the main cost factors to consider:
 - **Maintenance & updates** – Keeping software/plugins up to date.
 - **Support & troubleshooting** – Some agencies offer this as a monthly service.
 - **E-commerce fees** – Platforms like Shopify charge transaction fees.
-- **Marketing & SEO tools** – If using premium plugins or services.
+- **Marketing & search engine optimisation tools** – If using premium plugins or services.
 
 ### **3. Additional Costs to Watch Out For**
 

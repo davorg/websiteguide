@@ -25,7 +25,7 @@ businesses:
 
 ### **1. WordPress** (Most Popular)
 - Best for: Businesses that need a flexible, customisable website.
-- Pros: Huge range of plugins, good for SEO, can grow with your business.
+- Pros: Huge range of plugins, good for search engine optimisation, can grow with your business.
 - Cons: Needs regular maintenance, can be complex for beginners.
 
 ### **2. Shopify** (Best for E-commerce)
@@ -51,7 +51,7 @@ Before choosing a platform, consider these questions:
 2. **Do I need to sell products online?** If yes, e-commerce platforms like Shopify might be best.
 3. **What’s my budget for setup and ongoing costs?** Some platforms have monthly fees, others require hosting and maintenance.
 4. **Will I need advanced features in the future?** If your business will grow, choose a scalable platform.
-5. **How important is SEO?** Some platforms (like WordPress) are better for search engine rankings than others.
+5. **How important is isearch engine optimisation?** Some platforms (like WordPress) are better for search engine rankings than others.
 
 ## Questions to Ask Your Website Company
 

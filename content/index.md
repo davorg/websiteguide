@@ -38,7 +38,7 @@ to navigate, and designed with your audience in mind.**
 - Display **testimonials, case studies, awards, and client logos** to build trust.
 - If you’re selling online, include **secure payment badges**.
 
-### **5. SEO-Friendly Content**
+### **5. Search engine optimisation-Friendly Content**
 - Use relevant keywords naturally in your content.
 - Each page should have a unique **title and meta description** to help Google understand your site.
 

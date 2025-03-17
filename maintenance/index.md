@@ -18,9 +18,15 @@ broken features, and even loss of business.
 ## Key Aspects of Website Security
 
 ### **1. SSL Certificates (HTTPS)**
-- SSL encrypts data between your website and visitors, making it more secure.
+- A Secure Sockets Layer (SSL) Certificate, often just called an SSL
+  Certificate, ensures that the connection between your website and visitors
+  is secure and encrypted. This protects sensitive information, such as
+  contact details or payment data. Websites with SSL show a padlock icon in
+  the browser and use https:// instead of http://, making them more
+  trustworthy.
 - Google **prioritises** secure websites in search rankings.
-- If your site doesn’t have SSL, visitors may see a **“Not Secure”** warning in their browser.
+- If your site doesn’t have SSL, visitors may see a **“Not Secure”** warning
+  in their browser.
 
 ### **2. Regular Software Updates**
 - Websites built on platforms like **WordPress** need frequent updates to prevent hacking.
@@ -45,7 +51,7 @@ includes performance and functionality:
 
 - **Checking for broken links** – Avoid frustrating visitors with dead links.
 - **Ensuring forms and features work properly** – Contact forms, payment systems, and interactive elements must function as expected.
-- **Updating content** – Outdated information can hurt credibility and SEO.
+- **Updating content** – Outdated information can hurt credibility and search engine optimisation.
 - **Checking speed and performance** – Slow sites drive visitors away.
 
 ## Questions to Ask Yourself

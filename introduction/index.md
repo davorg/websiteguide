@@ -38,8 +38,9 @@ By the end of this guide, you’ll:
 - Be able to compare different quotes and services with confidence.
 
 Each article will focus on a specific topic, such as choosing the right
-platform, SEO, security, pricing, and ongoing maintenance. Throughout, we’ll
-include **practical questions you should ask** any potential website provider.
+platform, search engine optimisation, security, pricing, and ongoing
+maintenance. Throughout, we’ll include **practical questions you should
+ask** any potential website provider.
 
 ## Who This Guide Is For
 

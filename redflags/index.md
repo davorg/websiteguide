@@ -47,7 +47,7 @@ frustration.
 ### **5. They Guarantee You’ll Be “#1 on Google”**
 
 - No one can guarantee top rankings on Google.
-- SEO takes time, and any company promising **instant results** is likely using **spammy techniques** that could get your site penalised.
+- Search engine optimisation takes time, and any company promising **instant results** is likely using **spammy techniques** that could get your site penalised.
 
 ### **6. No Security or Maintenance Plan**
 
