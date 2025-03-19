@@ -44,6 +44,9 @@ json_ld:
 header:
   nav: false
 
+atom_feed:
+  hide: true
+
 defaults:
   - scope:
       path: ""
