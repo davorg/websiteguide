@@ -2,7 +2,7 @@
 title: SEO & Performance
 description: Why SEO and Performance Matter
 header:
-  og_image: /assets/images/seo.png
+  og_image: /assets/images/seo.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

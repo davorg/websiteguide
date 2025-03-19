@@ -2,7 +2,7 @@
 title: Choosing the Right Platform
 description: Why the Platform Matters
 header:
-  og_image: /assets/images/platform.png
+  og_image: /assets/images/platform.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

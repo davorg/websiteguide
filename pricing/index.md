@@ -2,7 +2,7 @@
 title: Pricing & Ownership
 description: Why Pricing & Ownership Matter
 header:
-  og_image: /assets/images/pricing.png
+  og_image: /assets/images/pricing.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

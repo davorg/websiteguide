@@ -2,7 +2,7 @@
 title: Conclusion & Final Checklist
 description: Making an Informed Decision
 header:
-  og_image: /assets/images/conclusion.png
+  og_image: /assets/images/conclusion.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

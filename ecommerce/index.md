@@ -2,7 +2,7 @@
 title: E-commerce & Payment Systems
 description: Why E-commerce & Payment Systems Matter
 header:
-  og_image: /assets/images/ecommerce.png
+  og_image: /assets/images/ecommerce.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

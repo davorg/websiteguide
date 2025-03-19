@@ -2,7 +2,7 @@
 title: Introduction
 description: Why You Need to Ask the Right Questions
 header:
-  og_image: /assets/images/intro.png
+  og_image: /assets/images/intro.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

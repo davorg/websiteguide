@@ -2,7 +2,7 @@
 title: Security & Ongoing Maintenance
 description: Why Website Security and Maintenance Matter
 header:
-  og_image: /assets/images/maintenance.png
+  og_image: /assets/images/maintenance.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

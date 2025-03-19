@@ -2,7 +2,7 @@
 title: Integrations & Automation
 description: Why Integrations & Automation Matter
 header:
-  og_image: /assets/images/integrations.png
+  og_image: /assets/images/integrations.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})

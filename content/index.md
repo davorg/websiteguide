@@ -2,7 +2,7 @@
 title: Content & User Experience (UX)
 description: Why Content and UX Matter
 header:
-  og_image: /assets/images/content.png
+  og_image: /assets/images/content.webp
 ---
 
 ![{{ page.description: }}]({{ page.header.og_image }})
