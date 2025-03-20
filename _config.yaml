@@ -9,6 +9,9 @@ description: Getting a website that actually works for your business
 
 minimal_mistakes_skin: "default"
 
+include: 
+  - assets/css/custom.css
+
 analytics:
   provider: "google-gtag"
   google:
