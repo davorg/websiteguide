@@ -1,5 +1,5 @@
 /* Highlight the active page in the sidebar */
-.nav__items .active {
+.sidebar .nav__list .nav__items li a.active {
   font-weight: bold;
   color: #007acc; /* Adjust to match your theme */
   border-left: 3px solid #007acc;
