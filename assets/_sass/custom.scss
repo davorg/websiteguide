@@ -1,0 +1,7 @@
+/* Highlight the active page in the sidebar */
+.nav__items .active {
+  font-weight: bold;
+  color: #007acc; /* Adjust to match your theme */
+  border-left: 3px solid #007acc;
+  padding-left: 8px;
+}
