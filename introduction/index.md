@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/intro.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 If you're a small business owner looking to build or improve your website,
 you might feel overwhelmed by the choices available. There are countless web

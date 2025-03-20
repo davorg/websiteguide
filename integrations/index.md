@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/integrations.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Your website doesn’t operate in isolation—it should work **seamlessly
 with the other tools you use** to run your business. Whether it’s capturing

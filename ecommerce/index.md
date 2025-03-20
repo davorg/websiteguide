@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/ecommerce.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 If your business sells products or services online, you need a **reliable,
 secure, and user-friendly** e-commerce system. The wrong setup can lead to

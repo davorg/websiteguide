@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/platform.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 One of the biggest decisions you'll make when getting a website built is
 **which platform it will be built on**. The platform affects how easy it

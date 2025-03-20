@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/content.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 A beautiful website is useless if visitors can’t find what they need or
 don’t understand your message. Your website’s **content** (text, images,

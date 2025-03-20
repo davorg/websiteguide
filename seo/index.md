@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/seo.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Having a website is pointless if no one can find it. Search Engine
 Optimisation (SEO) helps your website appear in Google searches, while

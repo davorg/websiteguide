@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/conclusion.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Choosing the right website company is one of the most important business
 decisions you'll make. A good website is an **investment that helps your

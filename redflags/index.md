@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/redflags.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Not all website companies are created equal. Some provide excellent service,
 while others **overcharge, underdeliver, or lock you into restrictive

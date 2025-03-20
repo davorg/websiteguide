@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/maintenance.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 A website isn’t something you build once and forget about. It needs regular
 maintenance to stay secure, function properly, and avoid costly downtime.

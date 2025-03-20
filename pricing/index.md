@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/pricing.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Many small business owners get caught out by **unexpected costs, hidden fees,
 or unclear ownership** when hiring a web company. Some discover too late that

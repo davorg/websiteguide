@@ -5,9 +5,9 @@ header:
   og_image: /assets/images/goals.webp
 ---
 
-![{{ page.description: }}]({{ page.header.og_image }})
+![{{ page.description }}]({{ page.header.og_image }})
 
-## {{ page.description: }}
+## {{ page.description }}
 
 Before you even think about hiring a website company, you need to be clear
 on **what you want your website to achieve**. Many small business owners rush
