@@ -65,3 +65,7 @@ defaults:
       show_title: false
       sidebar:
         nav: "side"
+  -   aside:
+        - type: custom
+          content: |
+            <p><a class="btn btn--primary" href="/assets/pdf/websiteguide2025.pdf" target="_blank">📄 Download as PDF</a></p>
