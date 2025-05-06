@@ -1,4 +1,6 @@
 side:
+  - title: "📄 Download PDF"
+    url: "/assets/pdf/websiteguide2025.pdf"
   - title: "Home"
     url: "/"
   - title: "Introduction"
