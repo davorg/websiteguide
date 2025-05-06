@@ -1,6 +1,5 @@
 ---
 layout: single
-sidebar: false
 title: Getting a website that actually works for your business
 ---
 
