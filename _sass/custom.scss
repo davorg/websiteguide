@@ -6,3 +6,18 @@
   padding-left: 8px; */
 }
 
+
+.nav__items a[href$="websiteguide2025.pdf"] {
+  display: inline-block;
+  margin-top: 1em;
+  background-color: #007acc;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.4em 0.8em;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.nav__items a[href$="websiteguide2025.pdf"]:hover {
+  background-color: #005f99;
+}
