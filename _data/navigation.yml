@@ -25,3 +25,5 @@ side:
     url: "/redflags/"
   - title: "Conclusion & final checklist"
     url: "/conclusion/"
+  - title: "About the author"
+    url: "/about/"
