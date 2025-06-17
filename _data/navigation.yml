@@ -1,3 +1,7 @@
+main:
+  - title: "Home"
+    url: "https://davecross.co.uk/"
+
 side:
   - title: "📄 Download PDF"
     url: "/assets/pdf/websiteguide2025.pdf"
