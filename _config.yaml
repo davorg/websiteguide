@@ -55,6 +55,7 @@ defaults:
     values:
       layout: single
       show_title: false
+      toc: true
       sidebar:
         nav: "side"
   - scope:
