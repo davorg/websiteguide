@@ -53,6 +53,8 @@ This guide is for **small business owners** who:
 You don’t need any technical knowledge—just a willingness to ask the right
 questions.
 
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+
 ## Next Steps
 
 Before diving in, take a moment to think about what you need from your

@@ -3,10 +3,10 @@ main:
     url: "https://davecross.co.uk/"
 
 side:
-  - title: "📄 Download PDF"
-    url: "/assets/pdf/websiteguide2025.pdf"
-  - title: "📗 Buy the book"
-    url: "https://amzn.to/3YHhFRo"
+  - title: "Buy the book (GBP 9.99)"
+    url: "https://davorg.gumroad.com/l/whattoask"
+  - title: "Subscribe free on Substack"
+    url: "https://davecross.substack.com/"
   - title: "Home"
     url: "/"
   - title: "Introduction"
@@ -33,3 +33,5 @@ side:
     url: "/conclusion/"
   - title: "About the author"
     url: "/about/"
+  - title: "Web Project Sanity Check"
+    url: "/sanity-check/"

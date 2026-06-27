@@ -60,6 +60,8 @@ functionality. A visually stunning website is **useless** if it doesn’t
 convert visitors into customers. Make sure your website is designed with a
 **clear purpose and user journey** in mind.
 
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+
 ## Next Steps
 
 Once you’re clear on your goals, the next step is choosing the right

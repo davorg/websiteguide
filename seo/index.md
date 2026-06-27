@@ -70,6 +70,8 @@ cautious!** SEO takes time, and no company can guarantee top rankings.
 Instead, focus on long-term strategies like **quality content, site speed,
 and local SEO**.
 
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+
 ## Next Steps
 
 Now that you know how to get visitors to your site, the next step is ensuring
