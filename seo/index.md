@@ -70,7 +70,7 @@ cautious!** SEO takes time, and no company can guarantee top rankings.
 Instead, focus on long-term strategies like **quality content, site speed,
 and local SEO**.
 
-*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.co.uk/newsletter).*
 
 ## Next Steps
 
@@ -80,6 +80,4 @@ can damage your reputation and business. In the next article, we’ll cover
 security, backups, and long-term website care.
 
 ### Coming Up Next:
-**[Website Security & Ongoing Maintenance](../maintenance/)** – How to keep
-your website safe, up to date, and running smoothly.
-
+**[Website Security & On

@@ -60,7 +60,7 @@ functionality. A visually stunning website is **useless** if it doesn’t
 convert visitors into customers. Make sure your website is designed with a
 **clear purpose and user journey** in mind.
 
-*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.co.uk/newsletter).*
 
 ## Next Steps
 
@@ -70,6 +70,4 @@ update themselves, while others require an advanced e-commerce solution.
 We’ll cover this in the next article.
 
 ### Coming Up Next:
-**[Choosing the Right Platform](../platform/)** – Understanding whether WordPress,
-Shopify, Wix, or a custom-built solution is best for you.
-
+**[Choosing the Right Platform](../p

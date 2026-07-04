@@ -4,9 +4,9 @@ main:
 
 side:
   - title: "Buy the book (GBP 9.99)"
-    url: "https://davorg.gumroad.com/l/whattoask"
+    url: "https://davecross.co.uk/whattoask"
   - title: "Subscribe free on Substack"
-    url: "https://davecross.substack.com/"
+    url: "https://davecross.co.uk/newsletter"
   - title: "Home"
     url: "/"
   - title: "Introduction"

@@ -53,7 +53,7 @@ This guide is for **small business owners** who:
 You don’t need any technical knowledge—just a willingness to ask the right
 questions.
 
-*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.substack.com/).*
+*Want more advice like this in your inbox? [Subscribe free on Substack](https://davecross.co.uk/newsletter).*
 
 ## Next Steps
 
@@ -63,7 +63,3 @@ Knowing your **goals** will help you make the best decisions.
 
 ### Coming Up Next: 
 **[Defining Your Website Goals](../goals/)** – Understanding what your website needs
-to achieve and how to measure success.
-
-Stay tuned and get ready to take control of your website project!
-
