@@ -70,4 +70,4 @@ update themselves, while others require an advanced e-commerce solution.
 We’ll cover this in the next article.
 
 ### Coming Up Next:
-**[Choosing the Right Platform](../p
+**[Choosing the Right Platform](../platform/)** – Picking the best solution for your business
