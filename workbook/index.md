@@ -25,5 +25,6 @@ Already a subscriber? Check your welcome email for the download link.
 
 ---
 
-*Want the full context behind the questions? The complete guide is available
-to [read online](/introduction/) or [buy as a book](https://davecross.co.uk/whattoask).*
+*Want the full context behind the questions? The guide is available to
+[read online](/introduction/) or
+[buy as a book](https://davecross.co.uk/whattoask).*

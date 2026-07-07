@@ -5,8 +5,8 @@ main:
 side:
   - title: "Buy the book (GBP 9.99)"
     url: "https://davecross.co.uk/whattoask"
-  - title: "Subscribe free on Substack"
-    url: "https://davecross.co.uk/newsletter"
+  - title: "Get the workbook"
+    url: "/workbook"
   - title: "Home"
     url: "/"
   - title: "Introduction"
