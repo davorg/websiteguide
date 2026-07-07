@@ -45,5 +45,5 @@ It's particularly useful if:
 
 ---
 
-*Prefer to do your own homework first? [Get the full guide on Gumroad](https://davorg.gumroad.com/l/whattoask)
-or [subscribe free on Substack](https://davecross.substack.com/) for ongoing advice.*
+*Prefer to do your own homework first? [Get the full guide on Gumroad](https://davecross.co.uk/whattoask)
+or [subscribe free on Substack](https://davecross.co.uk/newsletter) for ongoing advice.*
